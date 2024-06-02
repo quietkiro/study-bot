@@ -23,3 +23,9 @@ DISCORD_TOKEN=<your discord bot token>
 
 Of course, substitute `<your discord bot token>` for your actual discord bot token.
 The bot will generate a `data.db` file in its directory (root of the repository), so make sure has the permissions do that.
+
+When inviting the bot to the server, give it the `bot` scope and the following permissions:
+- Read Messages/View Channels
+- Send Messages
+
+That's it!
